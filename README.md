@@ -5,14 +5,14 @@
 # Table of Contents  
 
 - [Introduction](#intro1)
-- [Format of Datasets](#format2)
+- [Format of Data sets](#format2)
 - [Contact](#Contact3)
 
 <a name="intro1"></a>
 # Introduction
-We colloected three conversation data sets: chat-robot, cornell_chinese and english dialogue. 
+We colloected three conversation data sets: chat-robot, cornell_chinese and english dialogue. Those data sets are collected from web.
 
-We labeled them with five emotional tag in the expectation of further emotion computing research.
+We labeled them with five emotional tag in the expectation of further emotion computing research. These dialogues are tagged with five kinds of emotions, which we define as follows: 0: neutral; 1: happy; 2: surprised; 3: Grief; and 4: angry.
 
 Different data sets are collected and labelled by different people at different times. So, the format of different data sets are various.
 

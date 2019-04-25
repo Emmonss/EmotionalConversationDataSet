@@ -1,4 +1,3 @@
-# 项目名称
 合肥工业大学 计算机与信息学院 情感计算研究所 自然语言处理团队 情感标注对对话数据集
 # Conversational DataSet with Emotional Labelled
 

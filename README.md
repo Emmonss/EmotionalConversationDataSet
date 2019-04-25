@@ -9,16 +9,20 @@
 - [Contact](#Contact3)
 
 <a name="intro1"></a>
+## Introduction
 We colloected three conversation data sets: chat-robot, cornell_chinese and english dialogue. 
 We labeled them with five emotional tag in the expectation of further emotion computing research.
 
 Different data sets are collected and labelled by different people at different times. So, the format of different data sets are various.
 
+
+<a name="format2"></a>
+## Format
 This image shows the format of labelled chat-robot data sets:
 ![image](https://github.com/Emmonss/EmotionalConversationDataSet/tree/master/img/chatbot.png)
 
 This image shows the format of labelled cornell_chinese data sets:
-![image](https://github.com/Emmonss/EmotionalConversationDataSet/tree/master/img/cornell.png)
+![image](https://github.com/Emmonss/EmotionalConversationDataSet/blob/master/img/cornell.png)
 
 This image shows the format of labelled english dialogue data sets:
 ![image](https://github.com/Emmonss/EmotionalConversationDataSet/tree/master/img/English.png)

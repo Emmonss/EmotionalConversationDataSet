@@ -1,6 +1,6 @@
 # 项目名称
 合肥工业大学 计算机与信息学院 情感计算研究所 自然语言处理团队 情感标注对对话数据集
-# Conversational DataSet with emotional labeled
+# Conversational DataSet with Emotional Labelled
 
 # Table of Contents  
 
@@ -19,13 +19,13 @@ Different data sets are collected and labelled by different people at different 
 <a name="format2"></a>
 ## Format
 This image shows the format of labelled chat-robot data sets:
-![image](https://github.com/Emmonss/EmotionalConversationDataSet/tree/master/img/chatbot.png)
+![image](https://github.com/Emmonss/EmotionalConversationDataSet/blob/master/img/chatbot.png)
 
 This image shows the format of labelled cornell_chinese data sets:
 ![image](https://github.com/Emmonss/EmotionalConversationDataSet/blob/master/img/cornell.png)
 
 This image shows the format of labelled english dialogue data sets:
-![image](https://github.com/Emmonss/EmotionalConversationDataSet/tree/master/img/English.png)
+![image](https://github.com/Emmonss/EmotionalConversationDataSet/blob/master/img/English.png)
 
 for the reason of our research is still persistent, we only show partial data sets.
 If you need more data, please contact us. 
